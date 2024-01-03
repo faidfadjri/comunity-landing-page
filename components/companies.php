@@ -1,4 +1,4 @@
-<div class="p-5 py-8 sm:px-10 md:px-20 flex flex-col gap-6" id="companies">
+<div class="p-5 py-8 sm:px-10 md:px-20 flex flex-col gap-6" id="sponsor">
     <h1 class="font-medium text-md text-center">Sponsored By</h1>
     <hr>
     <div class="max-w-screen-xl mx-auto flex gap-16 items-center justify-center">

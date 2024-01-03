@@ -1,4 +1,4 @@
-<div class="px-5 sm:px-10 md:px-20 lg:px-10 xl:px-20 py-8 bg-gray-200" id="features">
+<div class="px-5 sm:px-10 md:px-20 lg:px-10 xl:px-20 py-8 bg-gray-200" id="challenge">
     <div class="max-w-screen-xl mx-auto">
         <h3 class="leading-none font-black text-3xl flex items-center gap-4">
             <img src="https://cdn-icons-png.flaticon.com/512/7139/7139508.png" alt="quest" class="w-10">

@@ -18,20 +18,24 @@
         </svg>
       </button>
       <div class="flex flex-col items-center justify-center md:block">
-        <a href="#" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
+        <a href="#hero" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
           Home
         </a>
 
-        <a href="#" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
-          Our Sponsors
+        <a href="#sponsor" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
+          Sponsors
         </a>
 
-        <a href="#" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
-          Quest
+        <a href="#event" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
+          Event
         </a>
 
-        <a href="#" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
-          Contact
+        <a href="#contact" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
+          <i class="fa-regular fa-address-book mr-1"></i> Contact
+        </a>
+
+        <a href="#feedback" class="transition-all duration-100 ease-in-out pb-1 border-b-2 text-gray-600 border-transparent hover:border-gray-300 hover:text-gray-600 md:mr-8 font-bold tracking-wide my-4 md:my-0">
+          <i class="fa-regular fa-comment mr-1"></i> Feedback
         </a>
       </div>
     </div>

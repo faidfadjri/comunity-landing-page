@@ -1,0 +1,70 @@
+﻿# Competition Rules and Guidelines
+
+## Welcome to the Development Application Competition!
+
+We are thrilled to have you participate in our Development Application Competition. Below are the detailed rules and guidelines that you must follow to ensure a fair and exciting competition experience.
+
+### General Rules:
+
+1. **Registration:**
+   - All participants must register before the specified deadline.
+   - Late registrations will not be accepted.
+
+2. **Team Composition:**
+   - The competition is open to both individuals and teams.
+   - Teams can consist of up to 4 members.
+
+3. **Original Work:**
+   - All submissions must be original and the work of the participants.
+   - Plagiarism will result in immediate disqualification.
+
+4. **Programming Languages:**
+   - Applications must be developed using the specified programming languages, such as Java, Python, or other languages as mentioned in the competition guidelines.
+
+5. **Submission Deadline:**
+   - The submission deadline is crucial. All entries must be submitted by MM/DD/YYYY at 11:59 PM in the specified timezone.
+
+### Evaluation Criteria:
+
+1. **Innovation and Creativity:**
+   - Judges will evaluate the level of innovation and creativity demonstrated in the application.
+
+2. **Functionality:**
+   - Applications must be fully functional and demonstrate the intended features.
+
+3. **User Experience (UX):**
+   - A well-designed and user-friendly interface is essential for a successful submission.
+
+4. **Code Quality:**
+   - Clean and well-documented code is encouraged for better understanding and evaluation.
+
+### Guidelines for Submission:
+
+1. **Submission Format:**
+   - Submissions must include the source code, a detailed readme file, and any necessary documentation.
+
+2. **Demo Video:**
+   - A demo video showcasing the application's functionality is required.
+
+3. **Readme File:**
+   - The readme file should provide clear instructions on how to set up and run the application.
+
+4. **Documentation:**
+   - Include any additional documentation that judges may find helpful in understanding your application.
+
+### Important Notes:
+
+1. **Communication:**
+   - All official communication will be conducted through the channels specified in the competition guidelines.
+
+2. **Updates and Announcements:**
+   - Participants are responsible for regularly checking for updates and announcements related to the competition.
+
+3. **Disqualification:**
+   - Violation of any rules may result in disqualification. Ensure strict adherence to the guidelines to avoid penalties.
+
+### Conclusion:
+
+Thank you for your participation in our Development Application Competition. We wish you the best of luck, and we look forward to witnessing the amazing applications you create. If you have any questions or concerns, please refer to the provided contact information in the competition guidelines.
+
+Happy coding!
